@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "usersarse",
+        "uuid": 326898,
+        "checksum": "75zvm"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
